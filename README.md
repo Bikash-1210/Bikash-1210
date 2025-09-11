@@ -7,11 +7,6 @@ Email Me 👉 ✉️ **bikashrn121@gmail.com** For Project or Anything Else. �
 - 📫 **How to reach me:** bikashrn121@gmail.com
 - ⚡ **Fun fact:** I Love Data and Data Love Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ipsita-nayak-709854241?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ipsita-nayak-709854241?" height="30" width="40" /></a>
-</p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikash-ranjan-5028a4269?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikashrn121@gmail.com) 
