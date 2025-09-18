@@ -1,11 +1,13 @@
-# 💫 Hi 👋, I'm Bikash Ranjan Nayak
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+<h1 align="center"> 💫 Hi 👋, I'm Bikash Ranjan Nayak</h1>
+<h3 align="center">Aspiring Data Analyst & Data Science. Passionate about Analytics & Design.</h3>
+
+<img align="right" alt="coding" width="300" src=https://github.com/Bikash-1210/Bikash-1210/blob/main/Image.gif>
 
 Email Me 👉 ✉️ **bikashrn121@gmail.com** For Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** data Science
 - 📫 **How to reach me:** bikashrn121@gmail.com
-- ⚡ **Fun fact:** I Love Data and Data Love Me
+- ⚡ **Fun fact:** I Love Data and Data loves me
 
 
 ## 🌐 Socials:
