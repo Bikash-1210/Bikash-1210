@@ -9,6 +9,11 @@ Email Me 👉 ✉️ **bikashrn121@gmail.com** For Project or Anything Else. �
 - 📫 **How to reach me:** bikashrn121@gmail.com
 - ⚡ **Fun fact:** I Love Data and Data loves me
 
+  
+<!-- Add clear margin above the trophies -->
+<br><br>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikash-ranjan-5028a4269?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikashrn121@gmail.com) 
