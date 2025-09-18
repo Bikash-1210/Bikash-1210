@@ -1,3 +1,4 @@
+![logo](https://github.com/Bikash-1210/Bikash-1210/blob/main/Github%20Banner.png)
 <h1 align="center"> 💫 Hi 👋, I'm Bikash Ranjan Nayak</h1>
 <h3 align="center">Aspiring Data Analyst & Data Science. Passionate about Analytics & Design.</h3>
 
